@@ -10,7 +10,7 @@ Installation
 * Run the `npm install` command.
 
 ```
-$ npm install hubot-lgtm --save
+$ npm install git://github.com/silvers/hubot-lgtm.git --save
 ```
 
 * Add the following code in your `external-scripts.json` file.
